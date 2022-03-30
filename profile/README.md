@@ -1,5 +1,10 @@
-<a href="https://ltx.deno.dev"><img src="https://ltx.deno.dev/bin/cover.svg"></a>
+[![cover](https://ltx.deno.dev/bin/cover.svg)](https://ltx.deno.dev)
 
 <div align="center">
-<img src="https://img.shields.io/github/workflow/status/LTXland/ltx/Deno?color=ff9a51"> <img src="https://img.shields.io/github/license/LTXland/ltx?color=ff9a51"> <img src="https://img.shields.io/github/stars/LTXland/ltx?color=ff9a51"> <img src="https://img.shields.io/github/issues/LTXland/ltx?color=ff9a51"> <img src="https://img.shields.io/tokei/lines/github/LTXland/ltx?color=ff9a51">
+<a href="https://ltx.deno.dev"><img alt="GitHub deployments" src="https://img.shields.io/github/deployments/LTXland/LTX/Production?label=LTX&logo=deno"></a>
+<a href="https://api-ltx.deno.dev"><img alt="GitHub deployments" src="https://img.shields.io/github/deployments/LTXland/api/Production?label=API&logo=deno"></a>
+<a href="https://github.com/LTXland/LTX"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/LTXland/LTX/Deno?label=LTX"></a>
+<a href="https://github.com/LTXland/api"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/LTXland/API/Deploy?label=API"></a>
+<a href="https://github.com/LTXland/wiki"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/LTXland/wiki/Send%20submodule%20updates%20to%20parent%20repo?label=wiki"></a>
+<a href="https://github.com/LTXland/launches"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/LTXland/launches/Send%20submodule%20updates%20to%20parent%20repo?label=launches"></a>
 </div>
